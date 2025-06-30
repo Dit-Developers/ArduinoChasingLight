@@ -89,10 +89,16 @@ Here’s a taste of the animations included in this sketch:
 ---
 
 ## 📷 Arduino Simulation
-### Video
+### 🎬 Video Demo (No Audio)
+
 <video src="ProjectLED_chaser.mp4" width="600" autoplay loop muted controls></video>
-### Circuit Diagram
-![LED Animation Preview](circuit_diagram.png)
+
+---
+
+### 🖼️ Circuit Diagram
+
+<img src="circuit_diagram.png" alt="LED Animation Preview" width="400"/>
+
 
 ---
 
