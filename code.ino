@@ -1,5 +1,18 @@
-// 30+ LED Animations on Arduino Uno using 6 LEDs
-// Pins: 7, 6, 5, 4, 3, 2 (LEDs 1 to 6)
+/*
+  ╔═══════════════════════════════════════════════════════════════════════╗
+  ║                        ArduinoChasingLi ght                           ║
+  ║                     30+ LED Animation  Effects                        ║
+  ║                                                                       ║
+  ║    Author: Muhammad Sudais Usmani                                     ║
+  ║      GitHub: https://github.com/Dit-Developers/ArduinoChasingLight    ║
+  ║                                                                       ║
+  ║    Description:                                                       ║
+  ║      (+)This sketch runs over 30 different LED animations on          ║
+  ║      (+)6 LEDs connected to an Arduino Uno (Pins 7–2).                ║
+  ║                                                                       ║
+  ╚═══════════════════════════════════════════════════════════════════════╝
+*/
+
 
 const int ledPins[] = {7, 6, 5, 4, 3, 2};
 const int ledCount = 6;
