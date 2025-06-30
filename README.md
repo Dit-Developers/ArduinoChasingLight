@@ -104,6 +104,6 @@ Here’s a taste of the animations included in this sketch:
 
 ## 📄 License
 
-This project is open-source under the MIT License. Feel free to use, modify, and share it. ✌️
+This project is open-source under the MIT License. Feel free to use and share it. ✌️
 
 ---
