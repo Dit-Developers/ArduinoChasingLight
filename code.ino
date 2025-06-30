@@ -1,7 +1,7 @@
 /*
   ╔═══════════════════════════════════════════════════════════════════════╗
-  ║                        ArduinoChasingLi ght                           ║
-  ║                     30+ LED Animation  Effects                        ║
+  ║                        ArduinoChasingLight                            ║
+  ║                     30+ LED Animation Effects                         ║
   ║                                                                       ║
   ║    Author: Muhammad Sudais Usmani                                     ║
   ║      GitHub: https://github.com/Dit-Developers/ArduinoChasingLight    ║
